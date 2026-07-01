@@ -1,6 +1,6 @@
-# 2026 GitHub Profile Guide
+# GitHub Profile Makeover
 
-This folder contains the draft for the "2026 GitHub Profile Guide" article. 
+This folder contains the draft for the "GitHub Profile Makeover" article. 
 
 ## Contents
 - `dev_to_article.md`: The main markdown file containing the article content intended for publication (e.g., on Dev.to).
